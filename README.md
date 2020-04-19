@@ -53,6 +53,6 @@ Time Delay NN. [Original Paper](http://isl.anthropomatik.kit.edu/pdf/Waibel1987a
 
 **XNN**- Xplainable NN. [Presentation](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf).
 
-**YNN**- available 🤔
+**YNN**- The Y-net NN [Squat classification](https://github.com/vinayprabhu/GaitID-2-SquatID/blob/master/Ynet_classify_squats_acc_gyr.ipynb)
 
 **ZNN**-Zlateski NN. [Original Paper](https://arxiv.org/pdf/1508.04843.pdf).
